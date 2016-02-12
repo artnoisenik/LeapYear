@@ -1,0 +1,24 @@
+{
+  "name": "leapyear-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "leap year test"
+  },
+  "keywords": [
+    "leap",
+    "year",
+    "Leap",
+    "Year"
+  ],
+  "author": "Phil",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
